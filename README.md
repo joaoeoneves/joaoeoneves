@@ -8,10 +8,8 @@ I'm finishing an MSc in Applied Computer Science, with a thesis on computer visi
 **Present Technologies**
 - **Spec-driven development** · *Jul 2026 – present*\
   I lead an internal spec-driven development pipeline. It turns informal input (user stories, technical context, decisions) into versioned, traceable specifications that an AI coding agent can implement directly. Requirements are written in EARS, and an adversarial review has the AI raise open questions for a human to decide. A CLI checks the dependencies between specs in CI.
-- **Automotive infotainment, Android** · *Oct 2024 – Jun 2026*\
-  Worked on the new Android version of an infotainment system for a premium German car maker, at both app and Android platform level (Android Automotive).
-- **Automotive infotainment, C++** · *Apr 2024 – Jun 2026*\
-  Built personalization and user-profile features for the same car maker's infotainment system. Supported it alongside the Android version until Jun 2026.
+- **Automotive infotainment** · *Apr 2024 – Jun 2026*\
+  Infotainment system for a premium German car maker. I started in C++, building personalization and user-profile features. In Oct 2024 I moved to the new Android Automotive version, working at both app and Android platform level, and supported both versions until Jun 2026.
 
 #### 🎓 Education
 
@@ -20,7 +18,10 @@ I'm finishing an MSc in Applied Computer Science, with a thesis on computer visi
 
 #### 🛠️ Tech
 
-C++ · Kotlin · Android & Android Automotive · Jetpack Compose · Python · PyTorch / YOLO · Luxonis DepthAI · Firebase · Docker
+- **Languages:** C++ · Kotlin · Java · Python · C
+- **Android:** Android Automotive / Android platform · Jetpack Compose · Firebase
+- **AI & computer vision:** spec-driven development with AI agents · PyTorch · YOLO · Luxonis DepthAI
+- **Tools:** Git · CMake · Docker · GitLab CI · Linux
 
 #### 📌 Projects
 
