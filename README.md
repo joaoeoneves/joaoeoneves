@@ -7,7 +7,7 @@ I'm finishing an MSc in Applied Computer Science, with a thesis on computer visi
 
 **Present Technologies**
 - **Spec-driven development** · *Jul 2026 – present*\
-  I lead an internal platform that generates specifications from existing documentation. The goal is a spec complete enough to implement from directly.
+  I lead an internal spec-driven development pipeline. It turns informal input (user stories, technical context, decisions) into versioned, traceable specifications that an AI coding agent can implement directly. Requirements are written in EARS, and an adversarial review has the AI raise open questions for a human to decide. A CLI checks the dependencies between specs in CI.
 - **Automotive infotainment, Android** · *Oct 2024 – Jun 2026*\
   Worked on the new Android version of an infotainment system for a premium German car maker, at both app and Android platform level (Android Automotive).
 - **Automotive infotainment, C++** · *Apr 2024 – Jun 2026*\
@@ -25,7 +25,7 @@ C++ · Kotlin · Android & Android Automotive · Jetpack Compose · Python · Py
 #### 📌 Projects
 
 - [**FinTrack**](https://github.com/joaoeoneves/FinTrack): Android app for tracking monthly expenses, income and budgets (Kotlin, Compose, Firebase).
-- **GoBraille Plasma Core** *(MSc thesis, coming soon)*: offline obstacle detection for a smart cane for blind and visually impaired pedestrians. It runs YOLO on an OAK-D stereo camera's VPU and gives each obstacle a distance and a risk score.
+- **GoBraille Plasma Core** *(MSc thesis, coming soon)*: offline obstacle detection for a smart cane for blind and visually impaired pedestrians. It runs YOLO on the VPU of an OAK-D stereo camera and estimates each obstacle's distance and a 0–5 risk score within a 150 ms budget. It sends only structured metadata to the audio and tactile feedback, never images.
 
 #### 📫 Contact
 
