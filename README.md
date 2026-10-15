@@ -6,11 +6,11 @@ I'm finishing an MSc in Applied Computer Science, with a thesis on computer visi
 #### 💼 Experience
 
 **Present Technologies**
-- **Spec-driven development** · *Jul 2026 – present*
-  I lead an internal spec-driven development platform that generates specifications from existing documentation. The goal is a spec complete enough to implement from directly.
-- **Automotive infotainment, Android** · *Oct 2024 – Jun 2026*
+- **Spec-driven development** · *Jul 2026 – present*\
+  I lead an internal platform that generates specifications from existing documentation. The goal is a spec complete enough to implement from directly.
+- **Automotive infotainment, Android** · *Oct 2024 – Jun 2026*\
   Worked on the new Android version of an infotainment system for a premium German car maker, at both app and Android platform level (Android Automotive).
-- **Automotive infotainment, C++** · *Apr 2024 – Jun 2026*
+- **Automotive infotainment, C++** · *Apr 2024 – Jun 2026*\
   Built personalization and user-profile features for the same car maker's infotainment system. Supported it alongside the Android version until Jun 2026.
 
 #### 🎓 Education
