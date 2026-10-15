@@ -25,7 +25,7 @@ I'm finishing an MSc in Applied Computer Science, with a thesis on computer visi
 
 #### 📌 Projects
 
-- [**FinTrack**](https://github.com/joaoeoneves/FinTrack): Android app for tracking monthly expenses, income and budgets (Kotlin, Compose, Firebase).
+- [**FinTrack**](https://github.com/joaoeoneves/fintrack): Android app for tracking monthly expenses, income and budgets (Kotlin, Compose, Firebase).
 - **GoBraille Plasma Core** *(MSc thesis, coming soon)*: offline obstacle detection for a smart cane for blind and visually impaired pedestrians. It runs YOLO on the VPU of an OAK-D stereo camera and estimates each obstacle's distance and a 0–5 risk score within a 150 ms budget. It sends only structured metadata to the audio and tactile feedback, never images.
 
 #### 📫 Contact
